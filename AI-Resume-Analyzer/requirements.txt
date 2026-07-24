@@ -1,0 +1,6 @@
+streamlit>=1.59
+google-generativeai
+python-dotenv
+pdfplumber
+bcrypt
+mysql-connector-python
